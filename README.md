@@ -1,4 +1,6 @@
 # liri
+
+# CLI App built with NodeJS
 *********************************
 Enter commands to work:
 *********************************
